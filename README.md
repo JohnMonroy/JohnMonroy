@@ -12,7 +12,8 @@
 
 ####  Tambien me agrada escuchar musica mientras realizo estas actividades o cualquier otra cosa algunos que recomiendo son :
 
-- ??? <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">link</a>
+- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">???</a>
+- <a href="https://www.youtube.com/watch?v=pcAKbKUBUOQ">The Diary of Jane</a>
 
 
 
