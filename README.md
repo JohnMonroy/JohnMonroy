@@ -6,6 +6,13 @@
 
 > Si reemplazan la Torre Eiffel por una estatua mía, me quedo en el PSG
 
+# Pasatiempos ❤️
+
+######  En mi tiempo libre me gusta salir con amigos , jugar videojuegos (Fifa,Pokemon,Osu,..) y chess ... tambien leer cada de vez en tanto cuando por azares del destino me encuentro un libro interesante 
+
+
+
+
 
 
 
