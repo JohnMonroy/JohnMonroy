@@ -1,5 +1,9 @@
 ### Saludos me llamo John 👋
 
+###### Soy estudiante en la UTEC de la carrera de Computer Science , recien estoy empezando en todo esto de la programación los lenguajes que me interesaría aprender de momento son Python y C++ 
+
+
+
 <!--
 **JohnMonroy/JohnMonroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
