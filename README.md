@@ -14,6 +14,8 @@
 
 - <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">???</a>
 - <a href="https://www.youtube.com/watch?v=pcAKbKUBUOQ">The Diary of Jane</a>
+- <a href="https://www.youtube.com/watch?v=nyuo9-OjNNg">I wanna be yours</a>
+- <a href="https://www.youtube.com/watch?v=b8-tXG8KrWs">Reptilia</a>
 
 
 
