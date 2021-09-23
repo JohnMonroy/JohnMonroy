@@ -1,6 +1,6 @@
 ### Saludos me llamo John 👋
 
-###### Soy estudiante en la UTEC de la carrera de Computer Science , recien estoy empezando en todo esto de la programación los lenguajes que me interesaría aprender de momento son Python y C++ 
+#### Soy estudiante en la UTEC de la carrera de Computer Science , recien estoy empezando en todo esto de la programación los lenguajes que me interesaría aprender de momento son Python y C++ 
 
 **Zlatan Ibrahimovic** 
 
@@ -8,7 +8,12 @@
 
 # Pasatiempos ❤️
 
-######  En mi tiempo libre me gusta salir con amigos , jugar videojuegos (Fifa,Pokemon,Osu,..) y chess ... tambien leer cada de vez en tanto cuando por azares del destino me encuentro un libro interesante 
+####  En mi tiempo libre me gusta salir con amigos , jugar videojuegos (Fifa,Pokemon,Osu,..) y chess .. tambien leer cada de vez en tanto cuando por azares del destino me encuentro un libro interesante 
+
+####  Tambien me agrada escuchar musica mientras realizo estas actividades o cualquier otra cosa algunos que recomiendo son :
+
+- ??? <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">link</a>
+
 
 
 
